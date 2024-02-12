@@ -4,7 +4,7 @@ Olá! Eu sou a Beka Swire!
 
 🐞 Software Quality Assurance
 
-🎓 Formada em Tecnologias e Programação de Sistemas de Informação e em Contabilidade
+🎓 Formada em Tecnologias e Programação de Sistemas de Informação e em Ciências Contábeis
 
 👩🏽‍💻 Cursando Licenciatura em Informática de Gestão
 
