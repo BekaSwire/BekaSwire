@@ -2,7 +2,7 @@
 
 Olá! Eu sou a Beka Swire!
 
-🐞 Software Quality Assurance
+🐞 QA || Quality Analyst || Software Testing
 
 🎓 Formada em Tecnologias e Programação de Sistemas de Informação e em Ciências Contábeis
 
