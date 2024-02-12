@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BekaSwire&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Snake animation](https://github.com/BekaSwire/BekaSwire/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BekaSwire)
