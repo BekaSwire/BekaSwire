@@ -1,5 +1,6 @@
-### Hi there 👋
-## Olá! Eu sou a Rebeca Swire!
+# 🐞 Rebeca Swire 🐞
+
+## Olá! Eu sou a Beka Swire!
 
 <!--
 **BekaSwire/BekaSwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
