@@ -2,6 +2,15 @@
 
 Olá! Eu sou a Beka Swire!
 
+🐞 Software Quality Assurance
+
+🎓 Formada em Tecnologias e Programação de Sistemas de Informação e em Contabilidade
+
+👩🏽‍💻 Cursando Licenciatura em Informática de Gestão
+
+🎬 Amo Livros, Filmes e Séries!
+
+
 <!--
 **BekaSwire/BekaSwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
